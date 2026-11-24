@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 100" role="img" aria-label="CLARYX — see the world with us">
+  <rect width="470" height="100" fill="#fff"/>
+  <defs>
+    <linearGradient id="claryx-spectrum" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#1458bb"/>
+      <stop offset="19%" stop-color="#a519a2"/>
+      <stop offset="34%" stop-color="#ef2929"/>
+      <stop offset="49%" stop-color="#f5c600"/>
+      <stop offset="62%" stop-color="#33b957"/>
+      <stop offset="76%" stop-color="#087ac8"/>
+      <stop offset="88%" stop-color="#ae25cb"/>
+      <stop offset="100%" stop-color="#ec3c36"/>
+    </linearGradient>
+  </defs>
+  <text x="4" y="61" fill="url(#claryx-spectrum)" font-family="Arial, sans-serif" font-size="65" font-weight="500" letter-spacing="2">CLARYX</text>
+  <text x="13" y="91" fill="#18345f" font-family="Arial, sans-serif" font-size="20" font-weight="400" letter-spacing="1.25">see the world with us</text>
+</svg>
